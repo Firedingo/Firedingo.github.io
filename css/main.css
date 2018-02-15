@@ -18,7 +18,8 @@ nav ul li, footer ul li {
 }
 sidebar {
     border-left: 1px solid #4B0082;
-    float:left;
+    float:right;
+    width:30%;
 }
 mainContent {
     border-top: 1px solid #4B0082;
