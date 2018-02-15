@@ -73,6 +73,9 @@ footer {
     float:left;
     width:100%;
 }
+#footer {
+    text-align: Center;   
+}
 
 ul.posts { 
     margin: 20px auto 40px; 
