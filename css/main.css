@@ -20,6 +20,7 @@ sidebar {
     border-left: 1px solid #4B0082;
     float:right;
     width:30%;
+    padding-bottom:30px;
 }
 mainContent {
     float:left;
@@ -27,6 +28,7 @@ mainContent {
     border-top: 1px solid #4B0082;
     border-bottom: 1px solid #4B0082;
     border-right: 1px solid #4B0082;
+    min-height:70%;
 }
 a {
     text-decoration: none;
@@ -46,6 +48,7 @@ p {
     font-family: Snell Roundhand, 'cursive';
 }
 footer {
+    clear:both;
     border-top: 1px solid #4B0082;
     font-size: .8em;
 }
