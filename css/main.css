@@ -28,7 +28,12 @@ sidebar {
     float:right;
     width:30%;
     padding-bottom:30px;
+    padding-left:10px;
     height: 500px;
+    margin-left:5px;
+}
+sidebar p {
+    padding-top:50px;
 }
 mainContent {
    
@@ -37,6 +42,7 @@ mainContent {
     border-bottom: 1px solid #4B0082;
     border-right: 1px solid #4B0082;
     margin-bottom:10px;
+    margin-right:5px;
     height:500px;
 }
 a {
