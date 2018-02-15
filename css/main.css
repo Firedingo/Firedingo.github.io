@@ -44,6 +44,7 @@ mainContent {
     border-bottom: 1px solid #4B0082;
     border-right: 1px solid #4B0082;
     
+    padding-right:10px;
     margin-right:5px;
     height:500px;
 }
