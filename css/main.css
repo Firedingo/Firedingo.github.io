@@ -20,6 +20,7 @@ nav ul li, footer ul li {
 header {
     border-top: 1px solid #4B0082;
     border-bottom: 1px solid #4B0082;
+    width:100%;
 }
 sidebar {
     
@@ -41,8 +42,8 @@ mainContent {
     width:70%;
     border-top: 1px solid #4B0082;
     border-bottom: 1px solid #4B0082;
+    border-right: 1px solid #4B0082;
     
-    margin-bottom:10px;
     margin-right:5px;
     height:500px;
 }
