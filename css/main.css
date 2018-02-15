@@ -67,10 +67,12 @@ p {
     width:30%;
 }
 footer {
-    margin-top: 20px;
+    margin-top: 10px;
     clear:both;
     border-top: 1px solid #4B0082;
     font-size: .8em;
+    float:left;
+    width:100%;
 }
 
 ul.posts { 
