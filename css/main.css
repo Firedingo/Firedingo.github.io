@@ -1,7 +1,10 @@
 body {
     margin: 40px auto;
     width: 70%;
-    background:#4F2F4F;
+    background:#CDB5CD;
+}
+Bcontainer {
+   background:#4F2F4F; 
 }
 nav {
  border-bottom: 1px solid #4B0082;
