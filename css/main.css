@@ -3,6 +3,9 @@ body {
     width: 70%;
     background:#CDB5CD;
 }
+nav {
+ border-bottom: 1px solid #4B0082;   
+}
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
@@ -12,6 +15,15 @@ nav ul, footer ul {
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
+}
+sidebar {
+    border-left: 1px solid #4B0082;
+    float:left;
+}
+mainContent {
+    border-top: 1px solid #4B0082;
+    border-bottom: 1px solid #4B0082;
+    border-right: 1px solid #4B0082;
 }
 a {
     text-decoration: none;
@@ -31,7 +43,7 @@ p {
     font-family: Snell Roundhand, 'cursive';
 }
 footer {
-    border-top: 1px solid #d5d5d5;
+    border-top: 1px solid #4B0082;
     font-size: .8em;
 }
 
