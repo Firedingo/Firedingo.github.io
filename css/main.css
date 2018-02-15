@@ -30,6 +30,7 @@ mainContent {
     border-bottom: 1px solid #4B0082;
     border-right: 1px solid #4B0082;
     min-height:70%;
+    margin-bottom:10px;
 }
 a {
     text-decoration: none;
