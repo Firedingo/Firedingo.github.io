@@ -22,7 +22,7 @@ header {
     border-bottom: 1px solid #4B0082;
 }
 sidebar {
-    border-left: 1px solid #4B0082;
+    
     border-top: 1px solid #4B0082;
     border-bottom: 1px solid #4B0082;
     float:right;
@@ -41,7 +41,7 @@ mainContent {
     width:70%;
     border-top: 1px solid #4B0082;
     border-bottom: 1px solid #4B0082;
-    border-left: 1px solid #4B0082;
+    
     margin-bottom:10px;
     margin-right:5px;
     height:500px;
