@@ -31,7 +31,7 @@ sidebar {
     width:31.5%;
     padding-bottom:30px;
     padding-left:10px;
-    height: 490px;
+    height: 480px;
     margin-top:132.5px;
 }
 sidebar p {
@@ -45,7 +45,7 @@ mainContent {
     border-right: 1px solid #4B0082;
     float:left;
     padding-right:10px;
-    height:520px;
+    height:510px;
     margin-top:10px;
 }
 a {
