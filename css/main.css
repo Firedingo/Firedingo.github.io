@@ -26,6 +26,7 @@ sidebar {
     
     border-top: 1px solid #4B0082;
     border-bottom: 1px solid #4B0082;
+    border-right: 1px solid #4B0082;
     float:right;
     width:31.5%;
     padding-bottom:30px;
@@ -44,7 +45,8 @@ mainContent {
     border-right: 1px solid #4B0082;
     float:left;
     padding-right:10px;
-    height:530px;
+    height:520px;
+    margin-top:10px;
 }
 a {
     text-decoration: none;
