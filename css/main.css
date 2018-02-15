@@ -74,7 +74,8 @@ footer {
     width:100%;
 }
 #footer {
-    text-align: Center;   
+    text-align: Center;
+    font-size: 0.8em;
 }
 
 ul.posts { 
