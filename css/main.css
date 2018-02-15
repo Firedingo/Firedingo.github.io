@@ -4,7 +4,8 @@ body {
     background:#CDB5CD;
 }
 nav {
- border-bottom: 1px solid #4B0082;   
+ border-bottom: 1px solid #4B0082;
+ margin-bottom:10px;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -48,6 +49,7 @@ p {
     font-family: Snell Roundhand, 'cursive';
 }
 footer {
+    margin-top: 10px;
     clear:both;
     border-top: 1px solid #4B0082;
     font-size: .8em;
