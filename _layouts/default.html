@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>{{ page.title }}</title>
+		<!-- link to main stylesheet -->
+		<link rel="stylesheet" type="text/css" href="/css/main.css">
+	</head>
+	<body>
+	   <div id="Bcontainer">
+		<nav>
+    		<ul>
+        		<li><a href="/">Home</a></li>
+            <li><a href="/projects">Projects</a></li>
+            <li><a href="/artwork">Artwork</a></li>
+        		<li><a href="http://firedingo.tumblr.com/">Blog</a></li>
+    		</ul>
+		</nav><!--END MENU-->
+		
+		<div class="container">
+    		<div class="blurb">
+			<sidebar>
+				{{ content }}
+			</sidebar>
+			<header>
+				{{ content }}
+			</header>
+			<mainContent>
+			  {{ content }}
+		</div><!-- /.blurb -->
+		</div><!-- /.container -->
+			</mainContent>
+		<footer>
+    		<ul>
+        		<li><a href="mailto:ladyfiredingo@gmail.com">email</a></li>
+        		<li><a href="https://github.com/firedingo">github.com/firedingo</a></li>
+			<li><a href="https://www.twiter.com/firedingo">Twitter</a></li>
+			<li><a href="https://www.twitch.tv/firedingo">Twitch</a></li>
+			<li><p id="footer">© 2018 Firedingo</p></li>
+			</ul>
+		</footer>
+		   </Bcontainer>
+	</body>
+</html>
